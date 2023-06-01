@@ -1,0 +1,269 @@
+ RESEARCH ARTICLE
+Designing behavioral interventions using the capability- opportunity-motivation-behavior model and the theoretical domains framework to optimize oxygen saturation maintenance by NICU providers
+Kevin Middleton BSc, MSc1, Connie Williams MD, PhD1, Deborah Bernard BSc1, Kanekal Suresh Gautham MD, DM, MS2, Sandesh Shivananda MD, DM, MSc3
+K Middleton, C Williams, D Bernard, KS Gautham, S Shivananda. Designing behavioral interventions using the capability-opportunity- motivation-behavior model and the theoretical domains framework to optimize oxygen saturation maintenance by NICU providers. Can J Respir Ther 2022;58:77–83. doi: 10.29390/cjrt-2021-075.
+Objective: Despite evidence-based guidelines, SpO2 maintenance-related practices of care providers remain inconsistent. Our aim was to evaluate the impact of interprofessional learning workshops, bedside coaching, and neonatal intensive care unit (NICU) level enablers on targeted behavioral change of NICU staff, focusing on SpO2 maintenance.
+Methods: NICU is a specialized area of the hospital with sophisticated monitors where multidisciplinary staff provide round-the-clock care for sick and preterm infants. As a subset of a quality improvement project to improve SpO2 maintenance and reduce desaturation events, three targeted evidence-based staff behaviors were deemed as important based on established capability-opportunity-motivation-behavior and theoretical domains framework models: setting SpO2 alarm limits, using SpO2 alarm management algorithms, and reporting daily summaries of SpO2 during rounds. We conducted interprofes- sional workshops, provided bedside coaching, and altered unit NICU processes (guidelines, automated SpO2 histogram printouts, defined staff standard work) and measured demonstrable changes in staff reaction, learning, and behaviors by direct observation of behaviors and survey questionnaires. Results: Two hundred and seventy-five (87%) and 210 (80%) of NICU staff attended workshops and received bedside coaching, respectively. The propor- tion of staff expressing satisfaction with workshop and bedside coaching was 85% and 82%, respectively. The proportion of staff reporting improvement in their knowledge and confidence related to SpO2 maintenance increased significantly following the workshop. Targeted behaviors related to SpO2 maintenance like setting appropriate alarm limits, adhering to SpO2 management algorithm, and reporting daily SpO2 summaries during rounds increased from 80% to 96%, 0% to 64%, and 20% to 70%, respectively.
+Conclusion: Focused behavioral change interventions aimed at improving staff capability, opportunity, and motivation resulted in a demonstrable change in targeted staff behaviors related to SpO2 maintenance. Further research is needed to establish ways of optimizing intended staff behaviors while imple- menting care bundles in a given setting.
+Key Words: behavioral change; neonatal intensive care; providers; oxygen saturation; quality improvement
+   INTRODUCTION
+Prolonged periods of time spent above and below target oxygen satura- tion (SpO2) range and frequency of desaturation events are associated with severe retinopathy of prematurity, bronchopulmonary dysplasia, mortality, and neurodevelopmental impairment [1–7]. Multiple factors like immature breathing control, severity of lung or other organ dis- ease, and variation in responding to SpO2 alarms contribute to diffi- culty in achieving predefined SpO2 target range and reducing frequency of desaturation [8–11]. Recently, evidence on optimal SpO2 targeting, use of technology to monitor adequacy of oxygen control, and stan- dardizing point-of-care staff response to SpO2 alarms offers opportuni- ties for improvement [12, 13]. Changing healthcare providers’ clinical behaviors, i.e., “individual human activity that involves coordinated contraction of striated muscles controlled by the brain” [14] is crucial. They are the first to respond to SpO2 alarms, decide on corrective
+steps in real-time, and plan interventions to address the underlying cause of alarms. For any behavior to occur, three factors must be present—capability, opportunity, and motivation—according to the capability-opportunity-motivation-behavior (COM-B) model of behav- ior. COM-B model and theoretical domains framework (TDF) have been used in characterizing and designing behavioral change interven- tions to implement evidence into practice [14, 15].
+Problem description
+At our tertiary perinatal Centre’s neonatal instensive care unit (NICU), a clinical audit on infants younger than 32 weeks and a survey of inter- professional care providers (staff) that included physicians, nurses, respi- ratory therapists (35 patient days, 35 survey responders) showed two significant problems: infants receiving supplemental oxygen spent a mean of 46% of a 24-h period within the unit target SpO2 range, and
+ 1McMaster Children’s Hospital – Hamilton Health Sciences, Hamilton, ON, Canada
+2Pediatrics, Nemours Children’s Health System, University of Central Florida College of Medicine, Orlando, FL, USA
+3BC Women’s Hospital, University of British Columbia, Vancouver, BC, Canada
+Correspondence: Sandesh Shivananda, Associate Professor, Dept. of Pediatrics, UBC, Room 1N24, 4500 Oak St., Vancouver, BC V6H 3V4, Canada. Tel: 604 875 2135
+ext. 7353. E-mail: Sandesh.shivananda@cw.bc.ca
+Published online at https://www.cjrt.ca on 22 June 2022
+This open-access article is distributed under the terms of the Creative Commons Attribution Non-Commercial License (CC BY-NC) (http:// creativecommons.org/licenses/by-nc/4.0/), which permits reuse, distribution and reproduction of the article, provided that the original work is properly cited and the reuse is restricted to noncommercial purposes. For commercial reuse, contact editor@csrt.com
+  Can J Respir Ther Vol 58 77
+
+Middleton et al.
+ FIGURE 1
+Key driver diagram for changing staff behaviors and the evaluation model.
+1 = Behaviour is the activity/ies that occur when individuals interact with their surroundings: other individuals, things, systems, etc.; 2 = Support staff in making desired behavioral change by helping them (i) understand the reasons for change, (ii) identify challenges and blind spots preventing change, (iii) decide on adopting change and practice new behavior; 3 = Steps to ensure guidelines, tools and SpO2 daily summary printouts are readily accessible and their use is integrated into NICU daily routine; 4 = Out of scope of this study.
+SpO2 = Saturation of Oxygen, RN = Registered nurse, RT = Registered Respiratory Therapist, MD = Medical Doctor.
+  there were 43 desaturation events of <80% per patient per day. The con- tributory factors were determined using a cause-and-effect diagram. Pareto charting included incorrect alarm limit setting (20% of occa- sions); inconsistent use of daily summaries of adequacy of SpO2 mainte- nance and frequency of desaturation, i.e., SpO2 histogram and event review (20% patient days) [14–17]; wide alarm limits and lack of guide- lines on SpO2 targets; and how to respond consistently to high, low, and multiple high and low SpO2 alarms. These contributory factors were consistent with the existing literature [16, 17].
+Behavioral change interventions, including education, training, and enablement in a team-based primary care and hospital setting, have been effective in changing care providers’ practice [14, 18, 19]. Recognizing the importance of staff behavioral change in implement- ing evidence-based practices on SpO2 maintenance, the NICU leader- ship team commissioned a subset of the care bundle to improve oxygen maintenance and reduce desaturation events quality improvement (CBIOME-QI) team. This team’s function was to identify (i) the behav- ioral changes needed by care providers to implement evidence-based practices and (ii) interventions that facilitate adoption of those behav- iors by care providers. The aim of the present study is to evaluate the impact of behavioral change interventions such as interprofessional learning (IPL) workshops, bedside coaching, and refinement in unit- level processes on behavioral changes of NICU staff related to SpO2 maintenance.
+METHODS
+We conducted this project in a 47-bed Level 3 NICU that has 200 preterm (<32 weeks) annual admissions that include both inborn and outborn infants, including those with surgical conditions.
+Baseline process of SpO2 maintenance and event management
+Before the initiation of the QI project, our unit alarm targets for SpO2 since 2006 were 84%–93% and 84%–100% for infants without and with oxygen supplementation, respectively, based on prevalent evidence [20]. Reporting daily SpO2 histogram event review reports during bedside rounds, tracking SpO2 histograms, and reviewing and reporting events and daily changes and incorporating them in deciding escalation or de-escalation of care practices were not part of the daily workflow.
+QI project
+The broader CBIOME QI team aims were to improve SpO2 maintenance within the target range and reduce the frequency of desaturation per patient per day at the level of the unit over 18 months, with an overarching goal of reducing morbidity in preterm infants. They provided the new guideline specifying evidence-based SpO2 target and alarm limits [3, 9], SpO2 alarm management algorithms [12], reporting of SpO2 histogram and event reviews during rounds, and a standard tool to track infant wellness based on daily SpO2 histogram and event reviews (consensus based locally developed tool). Our QI sub team had two physicians, a nurse practitioner,
+78
+Can J Respir Ther Vol 58
+
+TABLE 1
+Details of workshop and bedside coaching events and participants
+TABLE 2
+Observed target behaviors of providers related to oxygen saturation maintenance
+Designing behavioral interventions in NICU
+  Professional
+Nurses
+Respiratory therapist Physicians
+Nurse practitioners Allied staffc Studentsd
+Alarm limit set on monitors according to the unit guideline
+Use of SpO2 manage- ment algorithms Reporting of daily SpO2 maintenance during rounds
+no. of occasions/ total observations (%)
+384/480 (80)
+0/80 (0) 16/80 (20)
+no. of occasions/ total observations (%)
+490/510 (96)
+58/90 (64) 500/714 (70)
+P
+<0.0001
+<0.0001a <0.0001
+Number (%) of workshop participantsa, n = 234
+155 (66) 21 (9) 32 (14) 10 (4) 5 (2) 11 (5)
+Number (%) bedside coaching participantsb, n = 168
+124 (74) 14 (8) 17 (10) 9 (5) 4 (2)
+Pre-intervention, Post-intervention,
+   a87% of scheduled staff (n = 275), No. of workshops 13, Average no. of participants/session =14.
+b80% of scheduled day staff (n = 210), 60% of them had two or more coaching encounters.
+cOccupational therapist, Dieticians and Pharmacists. dMedical, nursing, and respiratory therapy students.
+a nurse educator, a respiratory therapy (RT) educator, an RT practice leader, a unit manager, and the project coordinator. Initially, we identified three target behaviors for implementing evidence-based practices for optimizing SpO2 maintenance: setting SpO2 alarm limit, using SpO2 alarm manage- ment algorithms, and reporting daily SpO2 histogram and event review reports during rounds (Supplementary Table 11). Later we used process mapping, force-field analysis, and COM-B [14, 15, 19] and TDF [19] to identify the specific choice of behavioral change techniques and interven- tions to be implemented to ensure staff show desired behaviors in their daily practice. We adopted the four steps for developing a theory-informed implementation intervention: Step 1: Who needs to do what, differently? Step 2: Which barriers and enablers need to be addressed? Step 3: Which behavior change techniques and mode(s) of delivery could overcome modi- fiable barriers and enhance enablers? Step 4: How can behavior change be measured and understood? [15] (Supplementary Table 21). The change interventions included IPL workshops, bedside coaching, and unit level supportive actions (Figure 1). Specifically, the above interventions aimed at improving providers’ knowledge, skills, intentions, decision-making, and execution. Since broad user adoption is critical in ensuring consistent pro- cesses and sustained improvement, the QI sub team aimed for 80% of staff to show the targeted behaviors in their daily practice.
+Behavioral change interventions
+IPL workshops were 4 h, with a maximum of 18 participants per ses- sion, comprising didactic and interactive components including case simulations, a quiz, debriefing with individuals, and small group task- based problem solving. QI-sub team members provided the guidelines and management algorithms to participants as pocket cards at the beginning of the workshop and encouraged their use while carrying out decision-making and performance tasks during the workshop to facili- tate new skill acquisition and its use in a simulated environment. Translating daily SpO2 histogram and event review report data to assign infant wellness into stable, watcher, and unstable categories using a wellness assessment tool was an essential part of the workshop.
+Bedside coaching
+Bedside coaching to staff was provided by a QI sub-team member experi- enced as a project coordinator in Canadian Oxygen Trial study [21] and comprised 10–15-min interactions at the bedside during the day shifts and focused mainly on consolidation of skills learnt during the work- shop. The coach also focused on supporting staff in making the desired behavioral change by helping them understand the reasons for change, identify individual challenges and barriers preventing change, and help staff decide on adopting the change and practice new behavior consis- tently (Supplementary Table 21).
+1Supplementary materials are available at https://www.cjrt.ca/wp-content/ uploads/Supplement-cjrt-2021-075.docx.
+Note: χ2, p < 0.05 is significant. aFischer’s exact test.
+Refine unit processes to support change
+ This included communication of practice changes in e-mail, newsletters, posters, and placing laminated SpO2 management algorithms in every patient chart. We made unit guidelines available on our intranet. Interprofessional stakeholder physician, nursing, RT, and operational leader representatives were engaged in defining staff roles and integrat- ing new practices into their daily workflow as standard work. To facili- tate SpO2 histogram and event review reports use by staff, the printing of daily reports from bedside monitors was automated, and the project coordinator placed the reports at the bedside before rounds. We imple- mented these interventions systematically using Plan-Do-Study-Act (PDSA) cycles.
+Evaluation
+We used the Kirkpatrick model to evaluate the impact of our behavioral change interventions [22]. Of the four levels of evaluation, we focused on the first three levels: providers’ reaction, learning, and behavior (applying their training into practice). The primary outcomes were the change in perceived and observed targeted behaviors (Kirkpatrick model level 3); % compliance with (i) setting alarm limits at the beginning of the day, (ii) using algorithms to manage SpO2 alarm events, and (iii) reporting SpO2 histogram reports during rounds. The project coor- dinator assessed alarm limit setting on monitors once every day. The bedside coach assessed staff compliance with algorithms by indirectly observing staff response of silencing the alarms for 3 min and carrying out trouble shooting maneuvers using the 5 Ps (positioning, prongs, patency of airway, probe, and physical assessment) to a desaturation event alarm without bradycardia. Further, the coach assessed compliance with SpO2 histogram reporting by staff by observing rounds or indirectly by reviewing the patient chart for staff documentation. The secondary outcomes were perceived behavioral change by staff, staff reaction and learning from IPL workshops and bedside coaching (Kirkpatrick model level 1 and 2), and usability of the SpO2 alarm management algorithm and infant wellness assessment tool. We assessed outcomes using vali- dated questionnaires without respondent identifiers [23] on a 7-point Likert scale [24]. We compared pre- and post-intervention ordinal scores data using Mann–Whitney U test and proportions using χ2 test and con- sidered P < 0.05 as statistically significant. The hospital research ethics board performed a partial review, exempted us from taking individual patient consent, and approved this quality improvement project.
+RESULTS
+Roll-out and evaluation
+Training workshops occurred between September and November 2014 (twice a week for half a day), in anticipation of going live with CBIOME- related guidelines and workflow redesign in the unit between December 2014 and February 2015. Bedside coaching occurred between February and June 2015. Participants’ evaluation occurred pre- and post-IPL workshop
+ Can J Respir Ther Vol 58
+79
+
+Middleton et al.
+TABLE 3
+Participants’ reaction to the training workshop
+Primary outcomes
+The project coordinator made 480 and 510 patient-day observations in December 2014 and July 2015, respectively, to assess staff compliance with alarm limit setting, and 80 observations of both daily SpO2 histo- gram reporting during rounds and any use of an algorithm for SpO2 alarms (December 2014). The bedside coach made 90 observations of bedside staff’s response to SpO2 alarms (May and June 2015), 714 obser- vations of daily SpO2 reporting with or without frequency of desatura- tion events or infant wellness assessment, and 90 observations of bedside staff’s response to SpO2 alarms in May and June 2015. When compared with baseline, alarm limit setting on monitors, use of SpO2 management algorithms, and reporting of daily SpO2 maintenance during rounds increased significantly (Table 2). Seventeen out of twenty-five (68%) charge nurses and experienced nurses looking after unstable and critical infants in NICU reported 5 or more level of agreement on staff adher- ence to SpO2 management algorithms on a 7-point Likert frequency scale (1 = never to 7 = always).
+Secondary outcomes
+Eighty-seven percent of participants (n = 203) responded to the post-IPL workshop survey (September–December 2014). Of them, 85.5% rated 5 or more level of agreement on a 7-point Likert scale on overall effective- ness of IPL workshop. Similarly, 71%–85% of respondents reported 5 or more level of agreement on a 7-point Likert scale on the delivery method and perceived improvement in various skills (Table 3, Supplementary Table 31). There was a statistically significant change in staff perceived knowledge acquisition and self-confidence pertaining to SpO2 mainte- nance following IPL workshop (Figure 2, Supplementary Table 41). Of the 63 staff members (51% of scheduled staff during evaluation period), 82%, 75%, and 87% expressed satisfaction with bedside coaching, SpO2 alarm management algorithms, and infant wellness assessment tool, respectively (Table 4, Supplementary Table 51).
+Staff provided suggestions to improve the integration of daily sum- maries into daily practice as comments on surveys. These included tran- sitioning from a manual assessment of infant wellness to an automated assessment system, avoiding overreliance on daily SpO2 maintenance and frequency of desaturation events in decision making, and validating decision-making tools for better uptake and spread. We list other com- ments from participants in Table 5.
+DISCUSSION
+This is the first study to use the COM-B [14] and TDF models [19] to identify and design behavioral change interventions among interpro- fessional care providers in a NICU setting, supported by a robust evaluation based on Kirkpatrick four-level evaluation model [22]. Implementing behavioral change interventions systematically using the PDSA cycle resulted in significant improvement in targeted NICU staff behaviors related to SpO2 maintenance in this study. We believe that the observed gains are secondary to change interventions as the change in staff behaviors coincided with intervention imple- mentation (IPL workshop, bedside coaching, unit process changes) and implementation fidelity (relevant content, broad coverage, multi- ple delivery methods, and high rate of staff participation and respon- siveness) [25].
+Maintenance of SpO2 among preterm infants’ in NICU is challeng- ing and determined by two modifiable factors: variation (non- standardization) in unit guidelines and clinicians’ practices at the bedside. Reasons for variation in clinicians’ practice include inade- quate knowledge on oxygen titration, need for troubleshooting SpO2 alarms on a minute-to-minute basis and the need to address the under- lying reasons, and staffing level and workload. The point-of-care staff’s clinical decision-making to troubleshoot SpO2 alarms is challenging because of individual (knowledge, experience, attitudes, beliefs, and intuitions) and contextual factors (availability of evidence-based guide- lines, complexity and dynamic nature of patient illness, changing tech- nology, declining resources, stressful environment with competing demands for time). We considered the above factors while using the COM-B model and TDF framework while designing and
+ Statements
+Effectiveness of workshop • Overall
+• Large group discussion • Case scenarios
+• Case simulations (individual and team based)
+• Debriefing
+Perceived improvement inb • Knowledge
+• Technical skills
+• Communication skills
+• Collaborative skills
+• Critical thinking
+• Confidence
+Number (%) of respondents who rated 5 or more level of agreement with statements on a 7-point Likert scalea
+200 (85.5) 183 (78.2) 191 (81.6) 193 (82.5)
+176 (75.2)
+196 (83.8) 168 (71.8) 205 (87.6) 198 (84.6) 183 (78.2) 171 (73.1)
+  aLikert scale: 1 = Strongly Disagree, 7 = Strongly Agree.
+bKnowledge and skills pertaining to oxygen saturation maintenance and reducing frequency of desaturation events, survey tool provided as Supplementary Table 31.
+ FIGURE 2
+Participants perceived immediate benefits of training workshop; change in knowledge and self-confidence.
+Perceived change in knowledge and self-confidence following workshop (1 = Low, 7 = high).
+*P < 0.05 and statistically significant.
+Pre- (n = 71) and post-workshop respondents (n = 44), online through survey monkey. Survey questionnaire provided as Supplementary Table 41.
+  Agreement on a 7 point Likert scale, Mean (SD)
+7 6 5 4 3 2 1 0
+****
+  Understand SpO2 histogram and event frequency
+Set SpO2 alarm limits
+Pre-workshop
+Manage infants with mul􏰀ple high and low SpO2 alarm events
+Post-workshop
+Op􏰀mize SpO2 maintenance by various means
+ (September–December 2014). Evaluation of bedside coaching, usability of tools, and perceived and observed changes in staff practices occurred once in June 2015 and once in July 2015. Two hundred and thirty-four staff mem- bers from all professional groups attended the 13 IPL training workshops (87% of scheduled staff), and 168 staff received bedside coaching, i.e., 60% of scheduled day staff during 714 patient days (Table 1).
+80
+Can J Respir Ther Vol 58
+
+TABLE 4
+Providers’ perceived usability of intervention tools and sat- isfaction with bedside coaching
+the IPL workshop sessions effective, as described by others [31, 32]. Bedside coaching to support providers’ practices is cost-effective and successful in improving providers’ adherence to guidelines, prescribing practices, and delivery of newer models of care in primary and second- ary care setting [33–37]. Some of the notable key attributes of coaches that improve individual and team capacity, effectiveness, and efficiency in adopting practices are building trusting relationships, managing conflict, fostering collaboration, bringing content expertise, having legitimacy with staff, and having unit level knowledge. Presence of a coach with many of the above attributes may have contributed to high overall satisfaction with coaching in this study. Previous studies have reported benefits of IPL among NICU providers attending ventilation [38] and resuscitation workshops [39]. However, none of those studies had bedside coaching as an intervention and evaluated the impact of training on providers showing desired behaviors in their daily practice [22]. We are planning to use COM-B and TDF principles to identify intended target behavior among physicians in determining the possible underlying cause of frequent desaturation events among preterm infants in a future study. Since changing a large proportion of provid- ers’ behavior plays a key role in adoption of best practices, the COM-B and TDF-based intentional approaches could be used in any other cen- tre or setting.
+Limitations
+First, we reported the desired behaviors before and after change interven- tions and not at multiple time points during the entire study as a run chart or control chart. Run charts by focusing on time-ordered data allow better visibility of process performance, determining whether changes resulted in improvement and whether gains made were sustained. Second, low response rate to bedside coaching evaluation may induce non-response bias and may not accurately reflect providers’ perceptions [40]. Third, the tool used to track daily infant wellness was not validated, but it was devel- oped locally to ensure standard communication between providers. Fourth, bedside coaches evaluated the use of SpO2 management algo- rithms during days and response from staff predominantly working during night shifts may not have been gathered. Fifth, we could not evaluate the impact of concurrent physical or cognitive workload on their decision- making process. Finally, we could not measure long-term knowledge reten- tion, adherence to targeted behaviors, or patient outcomes, as they were beyond the scope of the study.
+CONCLUSION
+Focused behavioral change interventions aimed at improving staff capa- bility, opportunity, and motivation resulted in a demonstrable change in targeted staff behaviors related to SpO2 maintenance. We need further research to establish ways of optimizing intended staff behaviors while implementing care bundles in a given setting.
+DISCLOSURES
+Contributors
+KM and SS contributed to the conception, the acquisition, analysis, and interpretation of data, and creating an initial version of the manuscript. All authors were involved in commenting on the paper and have approved the final version.
+Acknowledgements
+We acknowledge the contributions of our colleagues in delivering behavioral interventions, analysis or in suggesting in using the behav- ioral models; Judy Dilario, Julia Moore, Bonnie Rich, Akshay Prabhushankar, Debie Paterson, Gillian Dyck, Karen Schattauer. All Neonatologists, L. Huang, K. Prine, C.L. Meyer, L. Aliberti, H. Keown, Shannon Wu, C. Kahl, D. Pogorzeleski, W. Sedlitz, B. Rich, and D. Paterson.
+Source of funding
+Physician Services Incorporated Foundation, Ontario, Canada.
+Designing behavioral interventions in NICU
+ Statements
+SPO2 ALARM MANAGEMENT ALGORITHMS
+I follow SpO2 alarm management algorithm routinely in my daily practice
+It is useful
+It is easy to use
+I learned to use it quickly
+I am satisfied with it
+INFANT WELLNESS ASSESSMENT TOOL (ROSE TOOL)
+It helps me to objectively assess infants’ daily wellness
+It helps me to Identify an unstable infant early It helps me to assess response of an infant to an intervention
+It helps me to communicate infant wellness in a standardized manner
+It is easy to use
+I learned to use it quickly
+I am satisfied with it
+BEDSIDE COACHING AND IN-SERVICINGc They helped me to use SpO2 alarm manage- ment algorithm quickly
+They helped me to use infant wellness assessment tool quickly
+They were useful for seeking clarification on use of tools
+They were useful for adopting tools in my daily practice
+I am satisfied with them
+Number (%) of respondents who rated 5 or more level of agreement with statements on a 7-point Likert scalea,b
+51 (81.0)
+56 (88.9) 52 (82.5) 56 (88.9) 47 (74.6)
+49 (79.0)
+55 (88.7) 49 (79.0)
+45 (75.0)
+49 (79.0) 51 (82.2) 50 (86.7)
+51 (83.6) 51 (85.0) 47 (78.3) 49 (81.7) 49 (81.7)
+  aLikert scale: 1 = Strongly Disagree, 7 = Strongly Agree. Percentage was calculated by dividing respondents who rated as 5, 6, or 7 by total number of respondents.
+bSurvey questionnaire provided as Supplementary Table 51.
+cBedside in-servicing and coaching during that 3-month period. 32 calendar days, 714 patient days.
+implementing behavior change interventions [14, 19]. According to the COM-B model, a specific behavior will occur and a person is motivated to perform a behavior, has capability for the behavior, and engages in a behavior. The greater the capability and opportunity, the more likely a behavior will occur. Further, motivation to perform the behavior is accentuated when an individual becomes more capable or has more belief in one’s capability, and the physical or social environment is conducive to the behavior. Finally, practicing creates a positive feed- back cycle, improving capability that will increase motivation to engage in a behavior [14, 26]. We used TDF to specify the intended target behavior [18, 19] (Supplementary Tables 1 and 21). Adult ICUs have used the COM-B model in determining or designing change interven- tions in the areas of hand hygiene [27], acute stroke [28], or early mobil- ity programs [29]. However, NICUs have not reported using this model to implement care bundles. Researchers believe that such an approach helps in overcoming interprofessional providers’ pessimistic attitudes and beliefs, limiting the implementation and sustainability of change interventions [29, 30]. We believe other ICUs could adopt our approach to achieve staff compliance with desired practice changes, despite contextual limitations.
+In this study, staff received the interprofessional workshops and bedside coaching, and reported a significant change in knowledge acquisition and staff confidence. We believe a combination of adult learning principles (experiential, mentorship, orientation, motivation, shifting from pre-conceived notions), scenarios designed to mimic real- world practice challenges, and active engagement of participants made
+Can J Respir Ther Vol 58
+81
+
+Middleton et al.
+Table 5
+Participant comments on interventions and policies
+What they liked
+• Standardization of response to SpO2 alarms using management algorithms
+• Standardizing trouble shooting of desaturation events with initial five steps
+• Standardizing infant wellness assessment and team communication using ROSE tool
+• Bedside coaching on how to perform tasks, adapt to change, helping them connect their point of care work with an infant’s stability
+• Visually appealing and simple learning materials (ROSE tool and SpO2 alarm management algorithms)
+• Improved documentation and ability to trend infant wellness over time
+• Making staff feel important, connected, and useful
+• Interprofessional, hands on simulation based immersive and interactive learning
+• Making print outs available at bedside
+• Ability to convey infant wellness at shift handovers
+• Facilitates conversation on further work up and clinical management in response to infant wellness changes
+• Activities prompting interprofessional understanding, decision making and problem solving, closely mimicking real-life scenarios.
+Suggestions to improve the workshop or coaching/in-servicing
+• Avoid staff moving to two different workshop venues after mid-break
+Suggestions to improve the integration
+• Move from manual infant wellness assessment and documentation to automated electronic process to reduce workload, use of paper, and errors
+• Direct downloading of histogram and event reviews to patient electronic health records
+• Avoid decision-making based solely on histogram and event reviews
+• Physicians taking ownership of using daily summaries of SpO2 histogram and events
+• Clarify whether infant is on supplemental O2
+• Be skeptic about daily summaries capturing false alarms or equipment issues
+• Validate the tools for better uptake and spread
+Observations by bedside coach
+Challenges, what didn’t go well
+• Daily summaries not made available at the bedside during weekends, preventing their use
+• Unit printers did not print automatically daily summaries on Infants on pre- and post-SpO2 monitoring
+• Perception of increasing workload with no apparent benefit for staff
+• No fixed spot to document histogram and event review reports on nurse and RT flow sheets, making it difficult to track trends
+• SpO2 high alarms checking is not part of the standard work during staff shift handover
+• Not knowing how to use ROSE tool when an infant was on intermittently receiving supplemental O2, for example, during procedures
+• Documenting total desaturation events in 24 h, when an infant reached the monitor’s maximum capture ability of 50 events in 6–8 h.
+• Sustainability:
+◦ Manual printing, distribution, reviewing, plotting, and documenting of daily SpO2 and desaturation event summaries ◦ Ongoing staff practices monitoring
+◦ Orienting learners and new staff
+◦ Validation of tools with relevant patient or process outcomes
+      Competing interests
+All authors have completed the ICMJE uniform disclosure form at www. icmje.org/coi_disclosure.pdf and declare: no financial relationships with any organizations that might have an interest in the submitted work in the previous 3 years; no other relationships or activities that could appear to have influenced the submitted work.
+Ethical approval
+Ethical Requirement of Research Ethics Board approval for this project was formally waived by the institution after reviewing the proposal and considering it as a quality improvement project.
+REFERENCES
+1. Askie LM, Darlow BA, Finer N, et al. Association between oxygen saturation targeting and death or disability in extremely preterm infants in the neonatal oxygenation prospective meta-analysis collab- oration. JAMA 2018 Jun 5;319(21):2190–201. doi: 10.1001/ jama.2018.5725.
+2. Flynn JT, Bancalari E, Snyder ES, et al. A cohort study of transcutaneous oxygen tension and the incidence and severity of retinopathy of prematu- rity. N Engl J Med 1992 Apr 16;326(16):1050–4. doi: 10.1056/ NEJM199204163261603.
+3.Saugstad OD. Bronchopulmonary dysplasia-oxidative stress and antioxidants. Semin Neonatol 2003 Feb;8(1):39–49. doi: 10.1016/ S1084-2756(02)00194-X.
+4. McColm JR, Cunningham S, Wade J, et al. Hypoxic oxygen fluctuations produce less severe retinopathy than hyperoxic fluctuations in a rat model of retinopathy of prematurity. Pediatr Res 2004 Jan;55(1):107–13. doi: 10.1203/01.PDR.0000099772.66376.02.
+5. Mccolm JR, Fleck BW. Retinopathy of prematurity: causation. Semin Neonatol 2001 Dec;6(6):453–60. doi: 10.1053/siny.2001.0079.
+6. Di Fiore JM, Bloom JN, Orge F, et al. A higher incidence of intermittent hypoxemic episodes is associated with severe retinopathy of prematurity. J Pediatr 2010 Jul;157(1):69–73. doi: 10.1016/j.jpeds.2010.01.046.
+7. Janvier A, Khairy M, Kokkotis A, Cormier C, Messmer D, Barrington KJ. Apnea is associated with neurodevelopmental impairment in very low birth weight infants. J Perinatol 2004 Dec;24(12):763–8. doi: 10.1038/ sj.jp.7211182.
+8. HagadornJI,FureyAM,NghiemTH,etal.Achievedversusintendedpulse oximeter saturation in infants born less than 28 weeks’ gestation: the AVIOx study. Pediatrics 2006 Oct;118(4):1574–82. doi: 10.1542/ peds.2005-0413.
+9. Laptook AR, Salhab W, Allen J, Saha S, Walsh M. Pulse oximetry in very low birth weight infants: can oxygen saturation be maintained in the desired range? J Perinatol 2006 Jun;26(6):337–41. doi: 10.1038/sj.jp.7211500.
+10. Claure N, Gerhardt T, Everett R, Musante G, Herrera C, Bancalari E. Closed-loop controlled inspired oxygen concentration for mechanically ventilated very low birth weight infants with frequent episodes of hypoxemia. Pediatrics 2001 May;107(5):1120–4. doi: 10.1542/ peds.107.5.1120.
+11.SchmidtB,RobertsRS,WhyteRK,etal.Impactofstudyoximetermask- ingalgorithmontitrationofoxygentherapyintheCanadianoxygentrial. J Pediatr 2014 Oct;165(4):666–71.e2. doi: 10.1016/j.jpeds.2014.05.028.
+82
+Can J Respir Ther Vol 58
+
+12. Ford SP, Leick-Rude MK, Meinert KA, et al. Overcoming barriers to oxy- gen saturation targeting. Pediatrics 2006 Nov;118 Suppl 2:177. doi: 10.1542/peds.2006-0913P.
+13. Lau YY, Tay YY, Shah VA, Chang P, Loh KT. Maintaining optimal oxy- gen saturation in premature infants. Perm J 2011;15(1):108. doi: 10.7812/TPP/11.998.
+14. Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interven- tions. Implement Sci 2011 Apr 23;6:42.doi: 10.1186/1748-5908-6-42.
+15. French SD, Green SE, O’Connor DA, et al. Developing theory-informed behaviour change interventions to implement evidence into practice: a systematic approach using the Theoretical Domains Framework. Implement Sci 2012 Apr 24;7:38.doi: 10.1186/1748-5908-7-38.
+16. Neonatal Decision Support. Neonatal event review, histograms and dis- charge testing. In IntelliVue patient monitors. Netherlands: Koninklijke Philips Electronics; 2008. pp. 1–19.
+17. Adams KK, Goldstein MM, Ninnis J, Hopper A, Deming D. Use of oxy- gen saturation histogram increases time infants are within target satura- tion range. Pediatric Academic Societies Annual Meeting; 2012.
+18. Chauhan BF, Jeyaraman MM, Mann AS, et al. Behavior change interven- tions and policies influencing primary healthcare professionals’ prac- tice-an overview of reviews. Implement Sci 2017 Jan 5;12(1):3–8. doi: 10.1186/s13012-016-0538-8.
+19. Atkins L, Francis J, Islam R, et al. A guide to using the Theoretical Domains Framework of behaviour change to investigate implementation problems. Implement Sci 2017 Jun 21;12(1):77–9. doi: 10.1186/s13012-017-0605-9.
+20. Askie LM, Henderson-Smart DJ, Irwig L, Simpson JM. Oxygen-saturation targets and outcomes in extremely preterm infants. N Engl J Med 2003 Sep 4;349(10):959–67. doi: 10.1056/NEJMoa023080.
+21. Schmidt B, Whyte RK, Asztalos EV, et al. Effects of targeting higher vs lower arterial oxygen saturations on death or disability in extremely preterm infants: a randomized clinical trial. JAMA 2013 May 22;309(20):2111–20. doi: 10.1001/jama.2013.5555.
+22. Kirkpatrick DL, Kirkpartick JD. Evaluating training programs: the four levels. San Francisco, CA: Berrett-Koehler Publishers Inc; 2006.
+23. Lund AM. Measuring usability with the USE questionnaire. Usability Interface 2001;8(2):3–6.
+24. Smith SM, Albaum GS. Chapter 4: 50 scales. In Smith SM, Albaum GS, editors. Basic marketing research-Building your survey. UT: Qualitrics Labs, Inc; 2013. pp. 53–82.
+25. Carroll C, Patterson M, Wood S, Booth A, Rick J, Balain S. A conceptual framework for implementation fidelity. Implement Sci 2007 Nov 30;2:40.doi: 10.1186/1748-5908-2-40.
+26. West R, Michie S. A brief introduction to the COM-B Model of behaviour and the PRIME Theory of motivation [v1]. Qeios 2020 Apr 9;7:1–6. doi: 10.32388/WW04E6.
+27. Lambe K, Lydon S, Madden C, et al. Understanding hand hygiene behaviour in the intensive care unit to inform interventions: an inter- view study. BMC Health Serv Res 2020 Apr 25;20(1):353–4. doi: 10.1186/s12913-020-05215-4.
+28. Craig LE, McInnes E, Taylor N, et al. Identifying the barriers and enablers for a triage, treatment, and transfer clinical intervention to man- age acute stroke patients in the emergency department: a systematic review using the theoretical domains framework (TDF). Implement Sci 2016 Nov 28;11(1):157–1. doi: 10.1186/s13012-016-0524-1.
+29. Jarzenski T, Becker C, King E, et al. Behavior change strategies used to implement early mobility programs in the intensive care unit: a system- atic review. J Acute Care Occup Ther 2019;2(2):1–29.
+30. Bakhru RN, Wiebe DJ, McWilliams DJ, Spuhler VJ, Schweickert WD. An environmental scan for early mobilization practices in U.S. ICUs. Crit Care Med 2015 Nov;43(11):2360–9. doi: 10.1097/ CCM.0000000000001262.
+31. Hopkins D. Framework for action on interprofessional education & collaborative practice. Geneva: Health Professions Network Nursing and Midwifery Office. World Health Organization; 2019 June 11.
+32. Grapczynski CA, Schuurman S, Booth AD, Bambini D, Beel-Bates C. The integrated model for interprofessional education: a design for pre- paring health professions’ students to work in interprofessional teams. J Allied Health 2015;44(2):108–14.
+33. Waddell K, Evans C, Sharma K, Bulock H, Grimshaw JM, Lavis JN. Rapid synthesis: examining the role of coaching in health-system trans- formations. Hamilton: McMaster Health Forum; 2020 Jan 8.
+34. Laferriere D, Liddy C, Nash K, Hogg W. Navigating change: how out- reach facilitators can help clinicians improve patient outcomes. J Am Board Fam Med 2012;25(2):232–7. doi: 10.3122/jabfm.2012. 02.110192.
+35. Parchman ML, Noel PH, Culler SD, et al. A randomized trial of practice facilitation to improve the delivery of chronic illness care in primary care: initial and sustained effects. Implement Sci 2013 Aug 22;8:93.doi: 10.1186/1748-5908-8-93.
+36. Seers K, Rycroft-Malone J, Cox K, et al. Facilitating Implementation of Research Evidence (FIRE): an international cluster randomised con- trolled trial to evaluate two models of facilitation informed by the Promoting Action on Research Implementation in Health Services (PARIHS) framework. Implement Sci 2018 Nov 16;13(1):137–9. doi: 10.1186/s13012-018-0831-9.
+37. Hogg W, Baskerville N, Lemelin J. Cost savings associated with improving appropriate and reducing inappropriate preventive care: cost-consequences analysis. BMC Health Serv Res 2005 Mar 9;5(1):20. doi: 10.1186/1472-6963-5-20.
+38. Paterson D, Shivananda S, Helou SE, Fusch C, Mukerji A. Impact of interprofessional education on noninvasive ventilation in a ter- tiary neonatal intensive care unit. Can J Respir Ther 2016; 52(3):81–4.
+39. Fuerch JH, Yamada NK, Coelho PR, Lee HC, Halamek LP. Impact of a novel decision support tool on adherence to Neonatal Resuscitation Program algorithm. Resuscitation 2015 Mar;88:52–6. doi: 10.1016/j. resuscitation.2014.12.016.
+40. Martin P. 9 – Epidemiology. In Wright P, Stern J, Phelan M, editors. Core psychiatry (Third Edition). Oxford: W.B. Saunders; 2012. pp. 115–29.
+Designing behavioral interventions in NICU
+  Can J Respir Ther Vol 58
+83
